@@ -1,0 +1,62 @@
+<html>
+    <body>
+        <h1>Order Information:</h1>
+        	<b>
+			Customer Name:
+			Sparsa Reddy</b>
+	
+        <br>
+        		Order Id:
+		12345
+        <br>
+        		Item Name:
+		iPhone 7
+        <br>
+        		Price:
+		700
+			(Eligible for free shipping)
+		
+	
+        <br>
+        		Order Id:
+		12345
+        <br>
+        		Item Name:
+		Ipad
+        <br>
+        		Price:
+		600
+			(Eligible for free shipping)
+		
+	
+        <br>
+        		Order Id:
+		12345
+        <br>
+        		Item Name:
+		Personal Development Book
+        <br>
+        		Price:
+		10
+			(Should be purchased with an item whose price is greater than 100 for
+			free shipping)
+		
+	
+        <br>
+        		Order Id:
+		12345
+        <br>
+        		Item Name:
+		Java Book
+        <br>
+        		Price:
+		20
+			(Should be purchased with an item whose price is greater than 100 for
+			free shipping)
+		
+
+        <br>
+        <br>
+        <b>Total Number of items in the order: 4</b><b>Total price of the order:1330</b>
+    </body>
+</html>

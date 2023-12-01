@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<event id="123">
+	<id>123</id>
+	<name>Gaming</name>
+	<description>Play Super Cool Games</description>
+	<price>50</price>
+	<startTime>10:00:00</startTime>
+	<endTime>11:00:00</endTime>
+	<organizer>
+		<id>456</id>
+		<name>John</name>
+		<email>john@gmail.com</email>
+		<phoneNumber>0123456789</phoneNumber>
+	</organizer>
+	<venue>
+		<id>789</id>
+		<name>KOP Mall</name>
+		<street>Mall St</street>
+		<city>King Of Prussia</city>
+		<state>PA</state>
+		<country>USA</country>
+		<zipcode>19406</zipcode>
+	</venue>
+	<participants>
+		<participant>
+			<id>1</id>
+			<name>Bob</name>
+			<email>bob@bob.com</email>
+			<phoneNumber>0123456789</phoneNumber>
+		</participant>
+		<participant>
+			<id>2</id>
+			<name>Ahmad</name>
+			<email>ahmad@ahmad.com</email>
+			<phoneNumber>0123456789</phoneNumber>
+		</participant>
+		<participant>
+			<id>3</id>
+			<name>Bharath</name>
+			<email>bharath@bharath.com</email>
+			<phoneNumber>0123456789</phoneNumber>
+		</participant>
+	</participants>
+</event>
